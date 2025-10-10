@@ -17,7 +17,7 @@
         "tsx": "^4.19.2"
     },
     "dependencies": {
-        "@types/lodash": "4.17.15",
+        "@types/lodash": "4.17.20",
         "@types/node": "^22.13.4",
         "@vencord/discord-types": "^1.0.0",
         "highlight.js": "11.11.1",
